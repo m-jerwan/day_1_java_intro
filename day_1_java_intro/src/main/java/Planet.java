@@ -4,8 +4,6 @@ public class Planet {
     private int size;
 
 
-
-
 //    INITIALIZE:
 
     public Planet(String name, int size){

@@ -1,5 +1,5 @@
 public class Runner {
-    t
+    public static void main(String[] args){
      Planet planet_01 = new Planet("Mars", 908973);
 
         System.out.println(planet_01.getName());
